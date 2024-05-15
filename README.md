@@ -6,14 +6,20 @@ Manupulation image with streamlit
 <br>
 ![img](./img/hsv.jpeg)
 <br>
-*histogram
+* histogram
+
 ![img](./img/histogram.png)
+
 <br>
-*contour
+
+* contour 
+
 ![img](./img/countur.png)
 <br>
-*brighness and contrast
+* brighness and contrast
+
 ![img](./img/bnc.jpeg)
 <br>
+
 ![img](./img/prf.jpeg)
 
