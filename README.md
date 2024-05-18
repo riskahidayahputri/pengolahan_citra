@@ -5,7 +5,9 @@ Manupulation image with streamlit
 * RGB to HSV
 <br>
 ![img](./img/hsv.jpeg)
+
 <br>
+
 * histogram
 
 ![img](./img/histogram.png)
